@@ -185,13 +185,14 @@ body {
   }
   
   p {
-    font-family: 'Brush Script MT';
+    font-size: 13px;
+    font-family: 'Handlee';
     color: #333;
   }
   
   .name {
     margin-left:150px;
-    margin-top:-17px;
+    margin-top:20px;
   }
 
   .star1 {
